@@ -1,0 +1,55 @@
+body{ 
+    background-color:  blue ;
+}
+
+.banner{
+    width: 100%;
+    height: 700px;
+    background-image: url(images/tom\ and\ jerry\ banner.jpg);
+    background-size: cover;
+}
+
+.cast h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    /*border-bottom: 3px  solid;*/ 
+    text-decoration: underline;
+}
+.cast p{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
+
+.cast{
+    color: white;
+    text-align: center;
+}
+
+.card{
+    background-color: gray;
+    width: 250px;
+    height: 450px;
+    border:  1px solid black;
+    display: inline-block;
+    margin: 15;
+    text-align: center;
+}
+
+.card img{
+    width: 100%;
+    height: 50%;
+}
+
+.card h3{
+    text-align: left;
+    width: 280px;
+    padding-left:  8px;
+}
+
+.footer{
+    color: white;
+    text-align: center;
+}
